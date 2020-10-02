@@ -1,0 +1,17 @@
+table{
+    width: 100%;
+    font: purple;
+}
+
+th.mat-sort-header-sorted {
+    color:black;
+  }
+
+ p{
+     padding-left: 400px;
+     font-size: 30px;
+     color:whitesmoke
+ }
+ nav{
+     border-radius: 4px;
+ }
